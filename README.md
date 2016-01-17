@@ -9,4 +9,4 @@ in the years 2012 thru 2014.
 Much of the front end ETL and data munging is in Python. Flat files are loaded and Python's Geopy is used to create distances between accidents 
 and relevant points. City of Chicago data is also used: includes the Traffic Estimate data (speed metric), and Liquor license data. : 'Python ETL' folder.
 
-Some modeling is done in R: 'R Modeling' folder.
+Some modeling is done in R, using supervised frequentist methods. TO DO. add some Bayesian inference.
